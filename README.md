@@ -439,9 +439,9 @@ Migrating 100+ mission-critical workloads across Dev, UAT, and Production from a
 
 | Repository | Tech Stack | Architectural Description |
 | :--- | :--- | :--- |
-| **[azure-enterprise-landingzones-tf](https://github.com/swapnilagarwal30)** | `Terraform` `Azure CAF` | Enterprise-grade Terraform module provisioning Microsoft CAF Management Groups, Hub-Spoke VNets, Azure Firewall Premium, and central Log Analytics with state locking. |
-| **[devsecops-shield-pipeline](https://github.com/swapnilagarwal30)** | `DevSecOps` `CI/CD` | Multi-stage Azure DevOps & GitHub Actions YAML pipeline templates embedding Gitleaks, Checkov, Trivy, Infracost budget gates, and automated rollbacks. |
-| **[agentic-aiops-cloud-sentinel](https://github.com/swapnilagarwal30)** | `Agentic AI` `AIOps` | Autonomous AI SRE agent framework integrating with Azure Monitor to diagnose production alerts, execute automated root cause analysis, and submit remediating PRs. |
+| **[azure-enterprise-landingzone-tf](https://github.com/swapnilagarwal30/azure-enterprise-landingzone-tf)** | `Terraform` `Azure CAF` | Enterprise-grade Terraform module provisioning Microsoft CAF Management Groups, Hub-Spoke VNets, Azure Firewall Premium, and central Log Analytics with state locking. |
+| **[devsecops-shield-pipeline](https://github.com/swapnilagarwal30/devsecops-shield-pipeline)** | `DevSecOps` `CI/CD` | Multi-stage Azure DevOps & GitHub Actions YAML pipeline templates embedding Gitleaks, Checkov, Trivy, Infracost budget gates, and automated rollbacks. |
+| **[agentic-aiops-cloud-sentinel](https://github.com/swapnilagarwal30/agentic-aiops-cloud-sentinel)** | `Agentic AI` `AIOps` | Autonomous AI SRE agent framework integrating with Azure Monitor to diagnose production alerts, execute automated root cause analysis, and submit remediating PRs. |
 | **[azure-finops-sentinel](https://github.com/swapnilagarwal30)** | `FinOps` `Python` | Serverless FinOps automation toolkit for identifying orphaned managed disks, unassociated public IPs, idle VMs, and tuning Azure Monitor Data Collection Rules. |
 | **[mlops-azureml-gitops-pipeline](https://github.com/swapnilagarwal30)** | `MLOps` `GitOps` | Production MLOps framework automating Azure ML model retraining, evaluation, container registry packaging, and continuous deployment to AKS via ArgoCD. |
 

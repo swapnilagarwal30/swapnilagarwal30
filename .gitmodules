@@ -1,0 +1,11 @@
+[submodule "projects/azure-enterprise-landingzone-tf"]
+	path = projects/azure-enterprise-landingzone-tf
+	url = https://github.com/swapnilagarwal30/azure-enterprise-landingzone-tf.git
+
+[submodule "projects/devsecops-shield-pipeline"]
+	path = projects/devsecops-shield-pipeline
+	url = https://github.com/swapnilagarwal30/devsecops-shield-pipeline.git
+
+[submodule "projects/agentic-aiops-cloud-sentinel"]
+	path = projects/agentic-aiops-cloud-sentinel
+	url = https://github.com/swapnilagarwal30/agentic-aiops-cloud-sentinel.git
